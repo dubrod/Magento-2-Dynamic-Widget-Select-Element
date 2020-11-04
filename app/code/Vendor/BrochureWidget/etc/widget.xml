@@ -1,5 +1,5 @@
 <widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
-    <widget class="Adtran\DynoResourceWidget\Block\Widget\Items" id="dynores_items_widget">
+    <widget class="Vendor\BrochureWidget\Block\Widget\Items" id="brochure_widget">
         <label>Brochure Widget</label>
         <description>Display an HTML Brochure Element</description>
         <parameters>
